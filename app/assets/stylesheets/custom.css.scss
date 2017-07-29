@@ -19,3 +19,9 @@ $navbar-default-bg: #08088a;
 .center {
   text-align: center;  
 }
+.jumbotron {
+  color: white;
+  background-image: asset-url('new_cover_page.png');
+  background-size: cover;
+  height: 550px;
+}
