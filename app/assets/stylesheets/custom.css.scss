@@ -91,7 +91,19 @@ footer ul {
   list-style: none;
 }
 
+.badge {
+  background-color: #CEF6F5;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  fint-weight: bold;
+}
+
+.input_checkbox input {
+  width: auto !important;
+}
+
 footer ul li {
   float: left;
   margin-left: 15px;
 }
+
